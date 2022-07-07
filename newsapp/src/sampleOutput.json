@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Chris Pincher: PM under pressure over appointment",
+    "description": "Labour has written to Boris Johnson demanding to know what he knew of the claims about Chris Pincher.",
+    "url": "http://www.bbc.co.uk/news/uk-politics-62032329",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/168A4/production/_125742329_077092852.jpg",
+    "publishedAt": "2022-07-04T07:22:20.7960294Z",
+    "content": "Boris Johnson is under mounting pressure to reveal what he knew about allegations of inappropriate behaviour concerning Chris Pincher when he was appointed deputy chief whip.\r\nLabour chairwoman Annel… [+2817 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "At least five killed in Italian Marmolada glacier collapse",
+    "description": "Emergency officials said another eight people have been injured, with two suffering serious injuries.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62029780",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5391/production/_125739312_gettyimages-1190717835.jpg",
+    "publishedAt": "2022-07-04T06:52:20.0560762Z",
+    "content": "By Matt MurphyBBC News\r\nMedia caption, Watch: Video captures moment glacier collapses in Italian alps\r\nAt least five people have been killed after being caught in an avalanche sparked by the collapse… [+1880 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Copenhagen shooting: Danish police rule out terrorism in mall attack",
+    "description": "Police say the 22-year-old suspect involved in the Copenhagen attack had a history of mental health issues.",
+    "url": "http://www.bbc.co.uk/news/live/world-europe-62031793",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2022-07-04T06:37:27.6811497Z",
+    "content": "The Danish royal family has condemned the attack on the Fields mall and has offered condolences to the families of the victims. \r\nIn a joint statement, Queen Margrethe and the Crown Prince Frederik a… [+600 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jayland Walker: Ohio police release video of deadly suspect chase",
+    "description": "Police believe black man Jayland Walker fired first before being shot more than 60 times by officers.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62032964",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F504/production/_125742726_mediaitem125742725.jpg",
+    "publishedAt": "2022-07-04T05:52:21.2423266Z",
+    "content": "By Patrick JacksonBBC News\r\nUS police have released video of a chase in Akron, Ohio, which ended in a black man being shot dead, hit more than 60 times by pursuing officers.\r\nPolice believe Jayland W… [+2487 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Scientists discover new giant water lily species",
+    "description": "Scientists discover the first new species of giant water lily in more than a century.",
+    "url": "http://www.bbc.co.uk/news/science-environment-61725827",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0687/production/_125317610_img_0661.jpg",
+    "publishedAt": "2022-07-04T04:37:27.1430215Z",
+    "content": "By Rebecca MorelleScience Editor, BBC News\r\nA new species of giant water lily has been discovered - and its been hiding in plain sight for 177 years.\r\nThe huge plant had been in the archives of the R… [+3195 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sri Lanka energy minister warns petrol stocks about to run dry",
+    "description": "The crisis-hit country's next shipment of petrol is not due to arrive until later this month.",
+    "url": "http://www.bbc.co.uk/news/business-62032542",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5DFD/production/_125716042_gettyimages-1241678563.jpg",
+    "publishedAt": "2022-07-04T04:37:22.3926365Z",
+    "content": "Sri Lanka's energy minister has issued a stark warning over the country's fuel stocks as it faces its worst economic crisis in more than 70 years.\r\nOn Sunday, Kanchana Wijesekera said the nation only… [+2320 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Uzbekistan Karakalpakstan: Thousands injured in unrest",
+    "description": "Officials in the region of Karakalpakstan say thousands of people are being treated in hospital.",
+    "url": "http://www.bbc.co.uk/news/world-asia-62032801",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13578/production/_125742297_mediaitem125742296.jpg",
+    "publishedAt": "2022-07-04T03:22:23.417444Z",
+    "content": "By Patrick JacksonBBC News\r\nOfficials in the Uzbek region of Karakalpakstan say thousands of people are being treated in hospital, after being injured during unrest on Friday. \r\nThe regional health m… [+2241 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Kyrgios and Tsitsipas both fined over conduct",
+    "description": "Nick Kyrgios and Stefanos Tsitsipas are fined for their conduct during their fiery third-round match at Wimbledon.",
+    "url": "http://www.bbc.co.uk/sport/tennis/62031962",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/AA5E/production/_125741634_d02b90af92664885cc79af8928363463b1f6c55a.jpg",
+    "publishedAt": "2022-07-03T22:52:22.9991493Z",
+    "content": "<table><tr><th>Wimbledon 2022 on the BBC</th></tr>\r\n<tr><td>Venue: All England Club Dates: 27 June-10 July</td></tr><tr><td>Coverage: Live across BBC TV, radio and online with extensive coverage on B… [+1060 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Several hurt in Copenhagen shopping mall shooting",
+    "description": "Dozens of armed officers are deployed to the Field's mall, in the east of the Danish capital.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62030919",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B6BF/production/_125738764_1b52c1b5-b1bd-428a-8171-46b74999c8bb.jpg",
+    "publishedAt": "2022-07-03T17:22:17.4344207Z",
+    "content": "Several people have been shot in a shopping centre in the Danish capital Copenhagen, officials say.\r\nThe city's police tweeted that \"shots have been fired and several people have been hit\" at the Fie… [+252 chars]"
+    },
+     {
+      "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Russia claims capture of eastern city Lysychansk",
+    "description": "Russia's military says it controls all of Luhansk region - but Ukraine does not confirm the claim.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62030051",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141D9/production/_125739328_oilfirelysy23junafp.jpg",
+    "publishedAt": "2022-07-03T16:07:24.7843802Z",
+    "content": "Russia says it is now in full control of the eastern city of Lysychansk - a claim not confirmed by Ukraine.\r\nRussian Defence Minister Sergei Shoigu told President Putin that his forces now completely… [+3685 chars]"
+    }
+    ]
+    }
